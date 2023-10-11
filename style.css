@@ -1,0 +1,148 @@
+.bloc
+{
+    display:flex;
+}
+.entete p
+{ 
+    display: inline-block;
+    display: flex;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 280px;
+    top: -160px;
+    border-radius: 6px;
+    width: 19.3%;
+    padding-top:10px;
+}
+.entete1 p
+{ 
+    display: inline-block;
+    display: flex;
+    background-color: white;
+    padding: 15px;
+    position: relative;
+    left: 280px;
+    top: -185px;
+    word-spacing: 10px;
+    border-radius: 6px;
+    width: 19.3%;
+    padding-top:10px;
+}
+.logo
+{
+    width: 6%;
+    position: relative;
+    top: -390px;
+    left: 200px;
+
+}
+.travailleur
+{
+    background-color:#267BF1;
+    width:32%;
+    height: 450px;
+    margin-left:120px;
+}
+.formulaire
+{
+   padding: 15px;
+   width: 29%;
+   background-color:rgba(124, 153, 196, 0.342);
+   margin-left:-706px;
+   height: 420px;
+}
+.formulaire div
+{
+    position: relative;
+    left:24px;
+}
+.chpt
+{
+    width:78%;
+    height:25px;
+    margin: 10px;
+}
+::placeholder
+{
+    color: rgba(99, 99, 99, 0.603);
+}
+.blogin
+{
+    background-color:#267BF1;
+    border:none;
+    color: white;
+    width:80%;
+    padding:10px;
+    border-radius:6px;
+    font-weight: bold;
+    position: relative;
+    right: -13px;
+}
+.recap
+{
+    background-color:#267BF1;
+    border:none;
+    color: white;
+    padding:8px;
+    border-radius:4px;
+    font-weight: bold;
+    position: relative;
+    right: -78px;
+    bottom: -4px;
+}
+.regis
+{
+    background-color:white;
+    border:none;
+    color:#267BF1;
+    width:80%;
+    padding:10px;
+    border:1px solid #267BF1;
+    border-radius:6px;
+    font-weight: bold;
+    position: relative;
+    right: -13px;
+}
+.me
+{
+    position: relative;
+    left: 31px !important;
+}
+.or
+{
+    color:#267BF1 ;
+    position: relative;
+    right: -160px;
+}
+.forget
+{
+    color:#267BF1 ;
+    text-align: center;
+    display: inline;
+    position: relative;
+    right: -72px;
+}
+.login
+{
+    color:  #267BF1;
+    position: relative;
+    left: 10px;
+}
+.ys
+{
+    color:  rgb(243, 110, 21);
+    font-weight: bold;
+    font-size: 24px;
+    display: inline;
+    position: relative;
+    right:-4px;
+}
+.text
+{
+    background-color: white;
+    border: 1px solid rgb(110, 108, 108); 
+    width: 79%;
+    position: relative;
+    left: 35px !important;
+}
